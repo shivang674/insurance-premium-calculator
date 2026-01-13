@@ -1,0 +1,1 @@
+public enum PolicyType { HEALTH, TERM }

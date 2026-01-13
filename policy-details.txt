@@ -1,0 +1,10 @@
+Customer Age: 50
+Policy Type : HEALTH
+Risk Level  : MEDIUM
+Premium     : 6500.0
+-------------------------------
+Customer Age: 45
+Policy Type : HEALTH
+Risk Level  : HIGH
+Premium     : 8000.0
+-------------------------------
